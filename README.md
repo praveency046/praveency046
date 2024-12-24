@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/praveenpraveen84.png)  
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2637968" style='border:none;'></iframe>
 [View My TryHackMe Profile](https://tryhackme.com/p/praveenpraveen84)
 
 I'm **Praveen B**, a **Cybersecurity Student** and **AI Enthusiast** with a passion for offensive security and innovation.
