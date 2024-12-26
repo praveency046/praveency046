@@ -1,29 +1,23 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=On+journey+to+become+a+Cybersecurity+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=600&lines=On+the+journey+to+become+a+Cybersecurity+Expert" alt="Typing SVG" />
   </a>
 </div>
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+---
+<img width="28%" align="right" style="margin-top:20px;" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+
 
 <h2 align="left" style="color:#FF6347;">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm <b><span style="color:#FF4500">Praveen B</span></b>, a passionate cybersecurity enthusiast skilled in penetration testing, vulnerability assessment, and security research. I aim to contribute to the cybersecurity field and protect the digital world while enhancing my offensive security expertise.<br>
-
-<ul>
-  <li>Email: <a href="mailto:praveenpraveen8407@gmail.com" style="color:#4CAF50;">praveenpraveen8407@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://linkedin" style="color:#1E90FF;">linkedin</a></li>
-  <li>TryHackMe: <a href="https://tryhackme" style="color:#32CD32;">tryhackme</a></li>
-  <li>LeetCode: <a href="https://leetcode" style="color:#FFD700;">leetcode</a></li>
-</ul>
+I'm <b><span style="color:#FF4500">Praveen B</span></b>, a passionate cybersecurity enthusiast skilled in penetration testing, vulnerability assessment, and security research. I aim to contribute to the cybersecurity field and protect the digital world while enhancing my offensive security expertise.
 
 ---
 
-<h2 id="technical_skills" align='' style="color:#8A2BE2;">Technical Skills</h2>
-
+<h2 id="technical_skills" align="" style="color:#8A2BE2;">Technical Skills</h2>
 <div style="border: 3px dashed #FFA07A; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
@@ -49,6 +43,7 @@ I'm <b><span style="color:#FF4500">Praveen B</span></b>, a passionate cybersecur
       <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&color=000000" alt="SQL" />
   </div>
 </div>
+
 
 ---
 
