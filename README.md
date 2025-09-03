@@ -50,11 +50,11 @@ I'm <b><span style="color:#FF4500">Praveen B</span></b>, a passionate cybersecur
 <h2 id="achievements" align='' style="color:#20B2AA;">Achievements</h2>
 
 <ul>
-  <li><span style="color:#FF8C00;">Ranked in the top 1% on TryHackMe.</span></li>
-  <li><span style="color:#8A2BE2;">Solved 92% of labs on PortSwigger Academy.</span></li>
-  <li><span style="color:#DC143C;">Published research paper on phishing detection at I-SMAC 2024 Conference (IEEE).</span></li>
-  <li><span style="color:#228B22;">Created tools for secure file encryption and machine learning-based phishing detection.</span></li>
+  <li><span style="color:#FF8C00;">Hall of Fame in NASA, NIGC, Accenture, Surf, etc.. (for finding vulnerabilities in their websites).</span></li>
+  <li><span style="color:#8A2BE2;">Ranked in the top 2% at TryHackMe.</span></li>
+  <li><span style="color:#DC143C;">Solved 91% of labs on PortSwigger Academy.</span></li>
 </ul>
+
 
 ---
 
